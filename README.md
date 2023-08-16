@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Passionate about kickstarting my career in data analysis and making data-driven decisions. Eager to apply my analytical mindset and foundational skills to contribute to a dynamic team.
 
 🌟 Key Skills:
-- Currently enhancing my skills in Python, MySQL, R Programming, Excel, Power BI and Tableau for data analysis, data manipulation, exploration, and visualization
-- Developing interactive dashboards and visualizations with Tableau.
+- Currently enhancing my skills in Python, MySQL, R Programming, and Excel for data analysis, data manipulation and exploration
+- Developing interactive dashboards and visualizations with Power BI and Tableau.
 - Basic understanding of statistical analysis and data cleaning.
   
 🌱 Always learning: Continuously expanding my skills through online courses and staying updated with the new techniques, tools, and best practices in data analysis.
