@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 #### 📊 Aspiring Data Analyst | 📉 Transforming Data into Insights | 📈 Analytics & Visualizations
 
-Passionate about kickstarting my career in data analysis and making data-driven decisions. Eager to apply my analytical mindset and foundational skills to contribute to a dynamic team.
+Explore my coding journey and projects on GitHub!
+I'm passionate about kickstarting my career in data analysis and making data-driven decisions. Eager to apply my analytical mindset and foundational skills to contribute to a dynamic team. I'm excited to collaborate on innovative projects that challenge and inspire me.
 
 🌟 Key Skills:
 - Currently enhancing my skills in Python, MySQL, R Programming, and Excel for data analysis, data manipulation and exploration
