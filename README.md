@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 #### 📊 Aspiring Data Analyst | 📉 Transforming Data into Insights | 📈 Analytics & Visualizations
 
-Explore my coding journey and projects on GitHub!
 I'm passionate about kickstarting my career in data analysis and making data-driven decisions. Eager to apply my analytical mindset and foundational skills to contribute to a dynamic team. I'm excited to collaborate on innovative projects that challenge and inspire me.
 
 🌟 Key Skills:
